@@ -1,0 +1,37 @@
+{
+  "common": {
+    "app_name": "خَبِيئة",
+    "coming_soon": "قريباً..."
+  },
+  "navbar": {
+    "store": "سوق العهد",
+    "neighbours": "جيراني",
+    "nation_map": "خريطة الأمة",
+    "main": "الرئيسية",
+    "planting": "غرس"
+  },
+  "welcome": {
+    "title": "خَبِيئة",
+    "title_en": "Khabiah",
+    "welcome_text": "مرحبًا بك في رحلتك الروحية",
+    "welcome_subtext": "أخفياء مجهولين في الأرض معروفين في السماء",
+    "start_journey": "ابدأ رحلتك",
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "cancel": "إلغاء"
+  },
+  "register": {
+    "hidden_name": "الاسم الخفي",
+    "choose_your_favorite_name": "(أختر أحب الأسماء إليك و يعرفك به أهل السماء.)",
+    "personal_data_private": "بياناتك الخاصة (سرية)",
+    "email": "البريد الإلكتروني",
+    "birth_year": "عام الميلاد",
+    "location": "الموقع الجغرافي",
+    "promise_section_1": "أعاهد الله أن يكون دخولي هنا لإصلاح قلبي, لا رياء ولا سمعة...",
+    "promise_section_2": "و أن أصدق في خبيئتي, و أستر على إخواني... و الله على ما أقول شهيد."
+  },
+  "mihrab": {
+    "today_harvest": "حصاد اليوم: 0"
+  }
+}

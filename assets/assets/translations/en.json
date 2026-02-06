@@ -1,0 +1,37 @@
+{
+  "common": {
+    "app_name": "Khabiah",
+    "coming_soon": "Coming soon..."
+  },
+  "navbar": {
+    "store": "Store",
+    "neighbours": "Neighbours",
+    "nation_map": "Nation Map",
+    "main": "Main",
+    "planting": "Planting"
+  },
+  "welcome": {
+    "title": "خَبِيئة",
+    "title_en": "Khabiah",
+    "welcome_text": "Welcome to your spiritual journey",
+    "welcome_subtext": "Hidden and unknown on Earth, but known in Heaven",
+    "start_journey": "Start your journey",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "cancel": "Cancel"
+  },
+  "register": {
+    "hidden_name": "Hidden Name",
+    "choose_your_favorite_name": "(Choose the name you love most, and the people of heaven will know you by it.)",
+    "personal_data_private": "Personal data (private)",
+    "email": "Email",
+    "birth_year": "Birth Year",
+    "location": "Location",
+    "promise_section_1": "أعاهد الله أن يكون دخولي هنا لإصلاح قلبي, لا رياء ولا سمعة...",
+    "promise_section_2": "و أن أصدق في خبيئتي, و أستر على إخواني... و الله على ما أقول شهيد."
+  },
+  "mihrab": {
+    "today_harvest": "Today's Harvest: 0"
+  }
+}
