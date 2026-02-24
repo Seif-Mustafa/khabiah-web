@@ -19,7 +19,8 @@
     "login": "Login",
     "email": "Email",
     "password": "Password",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "login_failed": "Login failed"
   },
   "register": {
     "hidden_name": "Hidden Name",
@@ -40,7 +41,10 @@
     "mobile": "Mobile Number",
     "password": "Password",
     "please_enter_mobile": "Please enter your mobile number",
-    "please_enter_password": "Please enter a password"
+    "please_enter_password": "Please enter a password",
+    "registration_successful": "Registration Successful",
+    "registration_failed": "Registration Failed",
+    "username": "Username"
   },
   "mihrab": {
     "today_harvest": "Today's Harvest: 0"

@@ -19,7 +19,8 @@
     "login": "تسجيل الدخول",
     "email": "البريد الإلكتروني",
     "password": "كلمة المرور",
-    "cancel": "إلغاء"
+    "cancel": "إلغاء",
+    "login_failed": "فشل تسجيل الدخول"
   },
   "register": {
     "hidden_name": "الاسم الخفي",
@@ -40,7 +41,10 @@
     "mobile": "رقم الجوال",
     "password": "كلمة المرور",
     "please_enter_mobile": "الرجاء إدخال رقم الجوال",
-    "please_enter_password": "الرجاء إدخال كلمة المرور"
+    "please_enter_password": "الرجاء إدخال كلمة المرور",
+    "registration_successful": "تم التسجيل بنجاح",
+    "registration_failed": "فشل التسجيل",
+    "username": "اسم المستخدم"
   },
   "mihrab": {
     "today_harvest": "حصاد اليوم: 0"
