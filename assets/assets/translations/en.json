@@ -29,7 +29,18 @@
     "birth_year": "Birth Year",
     "location": "Location",
     "promise_section_1": "أعاهد الله أن يكون دخولي هنا لإصلاح قلبي, لا رياء ولا سمعة...",
-    "promise_section_2": "و أن أصدق في خبيئتي, و أستر على إخواني... و الله على ما أقول شهيد."
+    "promise_section_2": "و أن أصدق في خبيئتي, و أستر على إخواني... و الله على ما أقول شهيد.",
+    "please_enter_birth_year": "Please enter your birth year",
+    "invalid_birth_year": "Invalid birth year",
+    "age_must_be_at_least_8": "Age must be at least 8 years",
+    "age_must_be_less_than_150": "Age must be less than 150 years",
+    "please_enter_hidden_name": "Please enter a hidden name",
+    "please_enter_email": "Please enter your email",
+    "invalid_email": "Invalid email address",
+    "mobile": "Mobile Number",
+    "password": "Password",
+    "please_enter_mobile": "Please enter your mobile number",
+    "please_enter_password": "Please enter a password"
   },
   "mihrab": {
     "today_harvest": "Today's Harvest: 0"
