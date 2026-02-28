@@ -1,7 +1,9 @@
 {
   "common": {
     "app_name": "خَبِيئة",
-    "coming_soon": "قريباً..."
+    "coming_soon": "قريباً...",
+    "no_internet_title": "لا يوجد اتصال بالإنترنت",
+    "no_internet_message": "يرجى التحقق من خط الاتصال والمحاولة مرة أخرى."
   },
   "navbar": {
     "store": "سوق العهد",
@@ -74,6 +76,7 @@
     "send_peace_wave": "أرسل موجة سلام",
     "notification_invite": "يدعوك لأداء صلاة العصر جماعة في المسجد القريب",
     "now": "الآن",
+    "abdullah": "عبدالله",
     "answer_call": "تلبية النداء",
     "excuse": "عذر",
     "tasbih": "التسبيح",
@@ -96,7 +99,8 @@
     "gift_data_hint": "بيانات الإهداء (اختياري - مثلاً: عن والدي)",
     "register_contribution": "تسجيل المساهمة",
     "register_pledge": "سجّل العهدة",
-    "unknown_item": "بند غير معروف"
+    "unknown_item": "بند غير معروف",
+    "seed_balance": "رصيد البذرة: {}"
   },
   "global_impact": {
     "suggester_code": "كود المقترح:",

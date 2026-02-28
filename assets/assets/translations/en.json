@@ -1,7 +1,9 @@
 {
   "common": {
     "app_name": "Khabiah",
-    "coming_soon": "Coming soon..."
+    "coming_soon": "Coming soon...",
+    "no_internet_title": "No Internet Connection",
+    "no_internet_message": "Please check your network and try again."
   },
   "navbar": {
     "store": "Store",
@@ -71,9 +73,10 @@
     "participants_count": "Participants count: {}",
     "participants_count_zero": "Participants count: 0",
     "join_wird": "Join the Wird",
-    "send_peace_wave": "Send a wave of peace",
-    "notification_invite": "Invites you to perform Asr prayer in congregation at the nearby mosque",
+    "send_peace_wave": "Send a peace wave",
+    "notification_invite": "invites you to pray together in mosque",
     "now": "Now",
+    "abdullah": "Abdullah",
     "answer_call": "Answer the call",
     "excuse": "Excuse",
     "tasbih": "Tasbih",
@@ -96,7 +99,8 @@
     "gift_data_hint": "Gift details (optional - e.g. on behalf of my father)",
     "register_contribution": "Register Contribution",
     "register_pledge": "Register Pledge",
-    "unknown_item": "Unknown item"
+    "unknown_item": "Unknown item",
+    "seed_balance": "Seed Balance: {}"
   },
   "global_impact": {
     "suggester_code": "Suggester Code:",
